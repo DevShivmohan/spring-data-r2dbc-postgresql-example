@@ -1,6 +1,6 @@
-package com.bezkoder.spring.r2dbc.postgresql.repository;
+package com.shiv.spring.r2dbc.postgresql.repository;
 
-import com.bezkoder.spring.r2dbc.postgresql.model.Weather;
+import com.shiv.spring.r2dbc.postgresql.model.Weather;
 import org.springframework.data.r2dbc.repository.R2dbcRepository;
 import org.springframework.stereotype.Repository;
 

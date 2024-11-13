@@ -1,12 +1,12 @@
-package com.bezkoder.spring.r2dbc.postgresql.service;
+package com.shiv.spring.r2dbc.postgresql.service;
 
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.bezkoder.spring.r2dbc.postgresql.model.Tutorial;
-import com.bezkoder.spring.r2dbc.postgresql.repository.TutorialRepository;
+import com.shiv.spring.r2dbc.postgresql.model.Tutorial;
+import com.shiv.spring.r2dbc.postgresql.repository.TutorialRepository;
 
 import reactor.core.publisher.Flux;
 import reactor.core.publisher.Mono;

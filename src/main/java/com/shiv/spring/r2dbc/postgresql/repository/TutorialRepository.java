@@ -1,9 +1,8 @@
-package com.bezkoder.spring.r2dbc.postgresql.repository;
+package com.shiv.spring.r2dbc.postgresql.repository;
 
+import com.shiv.spring.r2dbc.postgresql.model.Tutorial;
 import org.springframework.data.r2dbc.repository.R2dbcRepository;
 import org.springframework.stereotype.Repository;
-
-import com.bezkoder.spring.r2dbc.postgresql.model.Tutorial;
 
 import reactor.core.publisher.Flux;
 

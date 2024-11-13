@@ -1,4 +1,4 @@
-package com.bezkoder.spring.r2dbc.postgresql.model;
+package com.shiv.spring.r2dbc.postgresql.model;
 
 
 

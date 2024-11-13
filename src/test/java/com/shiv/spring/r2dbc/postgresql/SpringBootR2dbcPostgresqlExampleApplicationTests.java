@@ -1,4 +1,4 @@
-package com.bezkoder.spring.r2dbc.postgresql;
+package com.shiv.spring.r2dbc.postgresql;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
